@@ -1,0 +1,19 @@
+
+.App {
+  width: 200px;
+  height: 500px;
+  background-color:  black;
+
+  
+}
+
+.luces{
+width: 150px;
+height: 150px;
+box-shadow:5px 5px 10px white;
+border-radius: 100px;
+margin: auto;
+margin-top: 7px;
+}
+
+
